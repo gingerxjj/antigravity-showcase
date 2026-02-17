@@ -868,3 +868,17 @@ body {
     padding: var(--space-md);
   }
 }
+/* Logo Image */
+.logo-img {
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+  margin-right: 0px;
+  vertical-align: middle;
+}
+.logo-icon {
+  font-size: 0; /* Remove extra space from span */
+  margin-right: 12px;
+  display: flex;
+  align-items: center;
+}
