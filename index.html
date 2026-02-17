@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Antigravity 全球应用展示 | 每日精选</title>
+  <meta name="description" content="每日自动聚合全球开发者使用 Google Antigravity 构建的最新最热门应用案例">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+SC:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="bg-particles" id="particles"></div>
+
+  <!-- 头部 -->
+  <header class="header">
+    <div class="container">
+      <div class="header-content">
+        <div class="logo">
+          <span class="logo-icon">🚀</span>
+          <div>
+            <h1>Antigravity 全球应用展示</h1>
+            <p class="subtitle">每日自动聚合 · 全网真实数据 · 每条可验证</p>
+          </div>
+        </div>
+        <div class="meta">
+          <div class="update-time" id="updateTime">加载中...</div>
+          <div class="total-count" id="totalCount"></div>
+        </div>
+      </div>
+      <!-- 数据来源说明 -->
+      <div class="data-trust-bar">
+        <span class="trust-icon">✅</span>
+        <span>所有数据均来自公开 API 实时采集，点击卡片即可跳转原始链接验证</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- 筛选栏 -->
+  <nav class="filters">
+    <div class="container">
+      <div class="filter-row">
+        <div class="filter-group">
+          <span class="filter-label">分类</span>
+          <div class="filter-pills" id="categoryFilters">
+            <button class="pill active" data-category="all">全部</button>
+          </div>
+        </div>
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" id="searchInput" placeholder="搜索项目名称或描述..." />
+        </div>
+      </div>
+      <div class="filter-row secondary">
+        <div class="filter-group">
+          <span class="filter-label">来源</span>
+          <div class="filter-pills" id="sourceFilters">
+            <button class="pill active" data-source="all">全部</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">排序</span>
+          <div class="filter-pills" id="sortFilters">
+            <button class="pill active" data-sort="stars">🔥 热度</button>
+            <button class="pill" data-sort="date">📅 最新</button>
+            <button class="pill" data-sort="beginner">🎓 新手推荐</button>
+          </div>
+        </div>
+        <div class="result-count" id="resultCount"></div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- 卡片网格 -->
+  <main class="main">
+    <div class="container">
+      <div class="card-grid" id="cardGrid">
+        <div class="loading" id="loading">
+          <div class="spinner"></div>
+          <p>正在加载应用数据...</p>
+        </div>
+      </div>
+      <div class="empty-state hidden" id="emptyState">
+        <span class="empty-icon">🔭</span>
+        <p>没有找到匹配的应用</p>
+        <button class="reset-btn" id="resetBtn">重置筛选</button>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>数据来自 GitHub · Reddit · Dev.to · Hacker News · Product Hunt · V2EX · Gitee</p>
+      <p>运行 <code>node scripts/fetch-data.js</code> 更新数据</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+
+</html>
