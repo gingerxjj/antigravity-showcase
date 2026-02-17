@@ -49,6 +49,34 @@ node scripts/fetch-data.js
 4. Save 后，GitHub 会自动生成网址。
 
 ---
+
+## 🛠️ 项目架构原理
+
+本项目是一个典型的 **Serverless (无服务器)** 静态网站架构：
+
+```mermaid
+graph TD
+    A[📅 GitHub Actions] -- "每日凌晨 4:00" --> B(运行 fetch-data.js)
+    B -- "抓取全球数据" --> C{各大平台 API}
+    C -- "返回数据" --> B
+    B -- "生成/更新" --> D(data/apps.json)
+    D -- "git commit & push" --> E[GitHub 仓库]
+    E -- "触发更新" --> F[Vercel]
+    F -- "重新构建 & 部署" --> G(用户浏览器)
+```
+
+- **后端 (数据层)**: 没有传统的后台服务器。使用 **GitHub Actions** 作为计算资源，每日定时运行脚本抓取数据，并保存为 `json` 文件。
+- **前端 (展示层)**: 纯 HTML/JS 静态页面，托管在 **Vercel** CDN 上。
+- **连接**: 数据直接存储在代码仓库中。通过 git 提交触发 Vercel 的自动化部署。
+
+## 🤝 开源说明
+
+本项目默认是 **开源 (Open Source)** 的。
+- 任何人都可以查看源码。
+- 任何人都可以 `Fork` (复制) 一份作为模板，修改成展示其他内容的网站（比如 "AI 绘画工具收集"）。
+- `README.md` 文档是由开发者编写的，帮助其他人理解项目。
+
+---
 **提示**: 本项目已配置 **GitHub Actions** (`.github/workflows/update_data.yml`)。
 只要您将代码推送到 GitHub，系统就会在每天 **北京时间凌晨 4:00** 自动运行采集脚本，并将最新数据提交回仓库。
 （如果您连接了 Vercel，数据更新后 Vercel 也会自动重新部署，实现全自动更新！）
