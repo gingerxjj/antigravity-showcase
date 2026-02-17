@@ -218,7 +218,7 @@ function generateShortTitle(item) {
   }
 
   // 6. 长度限制
-  if (title.length > 20) title = title.slice(0, 18) + '…';
+  if (title.length > 30) title = title.slice(0, 28) + '…';
 
   return title;
 }
@@ -361,11 +361,7 @@ async function translateItems(items) {
         // 翻译文章标题，作为 titleZh 备用
         const transName = await translateText(item.name);
         // 如果翻译结果太长，截断一下
-        if (transName.length > 20) {
-          item.titleZh = transName.slice(0, 18) + '…';
-        } else {
-          item.titleZh = transName;
-        }
+        item.titleZh = transName;
         await sleep(200);
       }
       const textToTranslate = item.summary || item.description;
