@@ -1,28 +1,23 @@
 <svg width="200" height="200" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="antigravity-gradient" x1="0%" y1="100%" x2="100%" y2="100%">
+    <linearGradient id="antigravity-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#4285F4;stop-opacity:1" />
       <stop offset="35%" style="stop-color:#34A853;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#FBBC05;stop-opacity:1" />
-      <stop offset="65%" style="stop-color:#EA4335;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#EA4335;stop-opacity:1" />
+      <stop offset="65%" style="stop-color:#4285F4;stop-opacity:1" /> <!-- Right side starts turning blue -->
       <stop offset="100%" style="stop-color:#4285F4;stop-opacity:1" />
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
   
-  <!-- A Gaussian-like Bell Curve resembling an 'A' -->
-  <!-- M 20 100: Start left bottom -->
-  <!-- Q 60 -20: Control point high in middle -->
-  <!-- 100 100: End right bottom -->
-  <path d="M 25 100 Q 60 -10 95 100" 
+  <!-- Refined Gaussian Bell Curve -->
+  <!-- Using Cubic Bezier for smoother inflection -->
+  <!-- M 30 95: Left foot -->
+  <!-- C 45 95, 45 25, 60 25: Curve up to peak -->
+  <!-- S 75 95, 90 95: Curve down to right foot -->
+  <!-- Adjusted control points for steeper legs and rounded top -->
+  <path d="M 28 95 C 40 95, 42 25, 60 25 S 80 95, 92 95" 
         stroke="url(#antigravity-gradient)" 
-        stroke-width="14" 
+        stroke-width="12" 
         fill="none" 
         stroke-linecap="round"
         stroke-linejoin="round" />
