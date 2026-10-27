@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T23:45:31.526Z",
+  "lastUpdated": "2026-10-27T23:41:42.681Z",
   "total": 259,
   "sources": [
     "GitHub",
@@ -24,7 +24,7 @@
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 140909,
+      "stars": 141560,
       "language": "Python",
       "tags": [
         "Python",
@@ -33,7 +33,7 @@
         "claude",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -52,7 +52,7 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 136116,
+      "stars": 136948,
       "language": "Python",
       "tags": [
         "Python",
@@ -61,7 +61,7 @@
         "ast",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -80,7 +80,7 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 110806,
+      "stars": 111126,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -89,7 +89,7 @@
         "claude-code",
         "codex"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -108,7 +108,7 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 78013,
+      "stars": 78094,
       "language": "Python",
       "tags": [
         "Python",
@@ -117,7 +117,7 @@
         "antigravity",
         "automation"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -136,12 +136,12 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 75444,
+      "stars": 75609,
       "language": "C",
       "tags": [
         "C"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -160,7 +160,7 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 70274,
+      "stars": 70320,
       "language": "Python",
       "tags": [
         "Python",
@@ -169,7 +169,7 @@
         "ai-prompts",
         "anthropic"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -188,12 +188,12 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 63747,
+      "stars": 64312,
       "language": "Python",
       "tags": [
         "Python"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -212,7 +212,7 @@
       "url": "https://github.com/router-for-me/CLIProxyAPI",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 56441,
+      "stars": 56652,
       "language": "Go",
       "tags": [
         "Go",
@@ -221,7 +221,7 @@
         "cluade",
         "codex"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "proxy-api",
       "categoryLabel": "🔌 API 代理/转换",
@@ -240,7 +240,7 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 54773,
+      "stars": 54945,
       "language": "Python",
       "tags": [
         "Python",
@@ -249,7 +249,7 @@
         "bioinformatics",
         "chemoinformatics"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -268,7 +268,7 @@
       "url": "https://github.com/sickn33/agentic-awesome-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 48547,
+      "stars": 48621,
       "language": "Python",
       "tags": [
         "Python",
@@ -277,7 +277,7 @@
         "ai-agent-skills",
         "ai-agents"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -296,7 +296,7 @@
       "url": "https://github.com/wshobson/agents",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 41807,
+      "stars": 41879,
       "language": "Python",
       "tags": [
         "Python",
@@ -305,7 +305,7 @@
         "ai-agents",
         "anthropic"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -324,14 +324,14 @@
       "url": "https://github.com/lbjlaq/Antigravity-Manager",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 32585,
+      "stars": 32610,
       "language": "Rust",
       "tags": [
         "Rust",
         "account-manager",
         "antigravity"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -350,7 +350,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 32430,
+      "stars": 32556,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -359,7 +359,7 @@
         "claude-code",
         "claude-code-hooks"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -378,7 +378,7 @@
       "url": "https://github.com/decolua/9router",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 31472,
+      "stars": 31537,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -387,7 +387,7 @@
         "anthropic",
         "chatgpt"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "proxy-api",
       "categoryLabel": "🔌 API 代理/转换",
@@ -406,7 +406,7 @@
       "url": "https://github.com/jlcodes99/cockpit-tools",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 19376,
+      "stars": 19423,
       "language": "Rust",
       "tags": [
         "Rust",
@@ -415,7 +415,7 @@
         "antigravity",
         "codebuddy"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -434,7 +434,7 @@
       "url": "https://github.com/google/artemis",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 15028,
+      "stars": 15163,
       "language": "Python",
       "tags": [
         "Python",
@@ -443,7 +443,7 @@
         "google",
         "test-automation"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -462,7 +462,7 @@
       "url": "https://github.com/NoeFabris/opencode-antigravity-auth",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 10948,
+      "stars": 10954,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -471,7 +471,7 @@
         "google",
         "opencode"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -499,7 +499,7 @@
         "claude",
         "codex"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "proxy-api",
       "categoryLabel": "🔌 API 代理/转换",
@@ -518,12 +518,12 @@
       "url": "https://github.com/google-labs-code/stitch-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 8607,
+      "stars": 8615,
       "language": "TypeScript",
       "tags": [
         "TypeScript"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -542,7 +542,7 @@
       "url": "https://github.com/zenstory-ai/oh-story-claudecode",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 8029,
+      "stars": 8060,
       "language": "Python",
       "tags": [
         "Python",
@@ -551,7 +551,7 @@
         "ai-novel-writing",
         "ai-writing"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -570,7 +570,7 @@
       "url": "https://github.com/tech-leads-club/agent-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 7093,
+      "stars": 7098,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -579,7 +579,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -598,7 +598,7 @@
       "url": "https://github.com/Louis-CFM/coucou",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 6567,
+      "stars": 6616,
       "language": "Swift",
       "tags": [
         "Swift",
@@ -607,7 +607,7 @@
         "antigravity",
         "claude"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -626,7 +626,7 @@
       "url": "https://github.com/su-kaka/agy2api",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 5276,
+      "stars": 5280,
       "language": "Python",
       "tags": [
         "Python",
@@ -635,7 +635,7 @@
         "claude",
         "claude-api"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "proxy-api",
       "categoryLabel": "🔌 API 代理/转换",
@@ -649,12 +649,40 @@
       "beginnerReason": "API 代理偏高级用法，社区认可度高"
     },
     {
+      "name": "gamedev-skills/awesome-gamedev-agent-skills",
+      "description": "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
+      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 5115,
+      "language": "Python",
+      "tags": [
+        "Python",
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "awesome-list"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "skills",
+      "categoryLabel": "🧠 Skills/技能包",
+      "categoryDesc": "Agent 技能包与最佳实践集合",
+      "summary": "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox.",
+      "titleZh": "Claude/AI 精选智能体技能包",
+      "summaryZh": "AI 编码代理的 74 种游戏开发技能 - Godot、Unity、Unreal、Phaser、PixiJS、 Three.js、Bevy、pygame、LÖVE、Roblox。",
+      "beginnerScore": 80,
+      "beginnerLevel": "强烈推荐",
+      "beginnerEmoji": "⭐⭐⭐",
+      "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
+    },
+    {
       "name": "PeonPing/peon-ping",
       "description": "Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.",
       "url": "https://github.com/PeonPing/peon-ping",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 5091,
+      "stars": 5092,
       "language": "Shell",
       "tags": [
         "Shell",
@@ -663,7 +691,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -691,7 +719,7 @@
         "proxy",
         "quota-monitor"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -710,12 +738,12 @@
       "url": "https://github.com/jlcodes99/vscode-antigravity-cockpit",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 4845,
+      "stars": 4844,
       "language": "TypeScript",
       "tags": [
         "TypeScript"
       ],
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -729,40 +757,12 @@
       "beginnerReason": "账号管理是进阶需求，社区认可度高"
     },
     {
-      "name": "gamedev-skills/awesome-gamedev-agent-skills",
-      "description": "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), with a router that loads the right skill for your engine and task. Runs in Claude Code, Cursor, Kiro, Codex, Copilot, Gemini CLI and more.",
-      "url": "https://github.com/gamedev-skills/awesome-gamedev-agent-skills",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 4820,
-      "language": "Python",
-      "tags": [
-        "Python",
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "awesome-list"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "skills",
-      "categoryLabel": "🧠 Skills/技能包",
-      "categoryDesc": "Agent 技能包与最佳实践集合",
-      "summary": "74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox.",
-      "titleZh": "Claude/AI 精选智能体技能包",
-      "summaryZh": "AI 编码代理的 74 种游戏开发技能 - Godot、Unity、Unreal、Phaser、PixiJS、 Three.js、Bevy、pygame、LÖVE、Roblox。",
-      "beginnerScore": 80,
-      "beginnerLevel": "强烈推荐",
-      "beginnerEmoji": "⭐⭐⭐",
-      "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
-    },
-    {
       "name": "yuaotian/antigravity-proxy",
       "description": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。",
       "url": "https://github.com/yuaotian/antigravity-proxy",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 4610,
+      "stars": 4622,
       "language": "C++",
       "tags": [
         "C++",
@@ -771,7 +771,7 @@
         "force-proxy-network-hook",
         "http-proxy"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "security",
       "categoryLabel": "🔒 安全/研究",
@@ -790,7 +790,7 @@
       "url": "https://github.com/CaviraOSS/LongMemory",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 4546,
+      "stars": 4547,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -799,7 +799,7 @@
         "ai-infrastructure",
         "ai-memory"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -818,7 +818,7 @@
       "url": "https://github.com/Observal/Observal",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 4533,
+      "stars": 4535,
       "language": "Python",
       "tags": [
         "Python",
@@ -827,7 +827,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -846,7 +846,7 @@
       "url": "https://github.com/google-antigravity/antigravity-sdk-python",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 3862,
+      "stars": 3869,
       "language": "Python",
       "tags": [
         "Python",
@@ -855,7 +855,7 @@
         "gemini",
         "gemini-api"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "proxy-api",
       "categoryLabel": "🔌 API 代理/转换",
@@ -883,7 +883,7 @@
         "antigravity-cli-plugins",
         "gemini"
       ],
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -902,7 +902,7 @@
       "url": "https://github.com/gotalab/cc-sdd",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 3741,
+      "stars": 3745,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -911,7 +911,7 @@
         "codex",
         "cursor"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -930,7 +930,7 @@
       "url": "https://github.com/samber/cc-skills-golang",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 3681,
+      "stars": 3690,
       "language": "Go",
       "tags": [
         "Go",
@@ -939,7 +939,7 @@
         "ai",
         "antigravity"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -958,7 +958,7 @@
       "url": "https://github.com/SeemSeam/claude_codex_bridge",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 3595,
+      "stars": 3596,
       "language": "Python",
       "tags": [
         "Python",
@@ -967,7 +967,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -986,7 +986,7 @@
       "url": "https://github.com/Nanako0129/sepia",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 3499,
+      "stars": 3521,
       "language": "Python",
       "tags": [
         "Python",
@@ -995,7 +995,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1009,15 +1009,71 @@
       "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
     },
     {
+      "name": "google/elephant-goldfish-model",
+      "description": "Open-source skills for designing and reviewing software with AI agents",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 3206,
+      "language": "Python",
+      "tags": [
+        "Python",
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "claude-code"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "skills",
+      "categoryLabel": "🧠 Skills/技能包",
+      "categoryDesc": "Agent 技能包与最佳实践集合",
+      "summary": "Open-source skills for designing and reviewing software with AI agents",
+      "titleZh": "AI elephant-goldfish-model",
+      "summaryZh": "使用人工智能代理设计和审查软件的开源技能",
+      "beginnerScore": 80,
+      "beginnerLevel": "强烈推荐",
+      "beginnerEmoji": "⭐⭐⭐",
+      "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
+    },
+    {
+      "name": "google/mantis",
+      "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+      "url": "https://github.com/google/mantis",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 2647,
+      "language": "Python",
+      "tags": [
+        "Python",
+        "adk",
+        "adk-python",
+        "ai-agents",
+        "antigravity"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "devtool",
+      "categoryLabel": "🛠️ 开发工具",
+      "categoryDesc": "辅助开发的工具与插件",
+      "summary": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
+      "titleZh": "AI mantis",
+      "summaryZh": "一个与堆栈无关的模块化工具包，供 AI 编码代理自主查找、重现和修补漏洞。",
+      "beginnerScore": 70,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "工具可提升开发体验，社区认可度高"
+    },
+    {
       "name": "google-antigravity/antigravity-cli",
       "description": "Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.",
       "url": "https://github.com/google-antigravity/antigravity-cli",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 2641,
+      "stars": 2645,
       "language": null,
       "tags": [],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1036,7 +1092,7 @@
       "url": "https://github.com/nanaism/yomiyasu",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 2575,
+      "stars": 2603,
       "language": "Python",
       "tags": [
         "Python",
@@ -1045,7 +1101,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1059,40 +1115,12 @@
       "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
     },
     {
-      "name": "google/mantis",
-      "description": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
-      "url": "https://github.com/google/mantis",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 2551,
-      "language": "Python",
-      "tags": [
-        "Python",
-        "adk",
-        "adk-python",
-        "ai-agents",
-        "antigravity"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "devtool",
-      "categoryLabel": "🛠️ 开发工具",
-      "categoryDesc": "辅助开发的工具与插件",
-      "summary": "A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.",
-      "titleZh": "AI mantis",
-      "summaryZh": "一个与堆栈无关的模块化工具包，供 AI 编码代理自主查找、重现和修补漏洞。",
-      "beginnerScore": 70,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "工具可提升开发体验，社区认可度高"
-    },
-    {
       "name": "amElnagdy/delegate-skills",
       "description": "Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.",
       "url": "https://github.com/amElnagdy/delegate-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 2513,
+      "stars": 2517,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -1101,7 +1129,7 @@
         "antigravity",
         "claude-code"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1120,7 +1148,7 @@
       "url": "https://github.com/Draculabo/AntigravityManager",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 2408,
+      "stars": 2410,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1129,7 +1157,7 @@
         "antigravity-ai",
         "antigravity-ide"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1172,7 +1200,7 @@
       "url": "https://github.com/happier-dev/happier",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 2071,
+      "stars": 2082,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1181,7 +1209,7 @@
         "agent-orchestration",
         "ai-agents"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1200,7 +1228,7 @@
       "url": "https://github.com/zzet/gortex",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1921,
+      "stars": 1923,
       "language": "Go",
       "tags": [
         "Go",
@@ -1209,7 +1237,7 @@
         "claude-code",
         "code-analysis"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1228,14 +1256,14 @@
       "url": "https://github.com/rmyndharis/antigravity-skills",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1861,
+      "stars": 1865,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
         "antigravity",
         "antigravity-skills"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1254,7 +1282,7 @@
       "url": "https://github.com/kenryu42/cc-safety-net",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1796,
+      "stars": 1824,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1263,7 +1291,7 @@
         "antigravity",
         "claude"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1282,7 +1310,7 @@
       "url": "https://github.com/NeoLabHQ/context-engineering-kit",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1788,
+      "stars": 1789,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1291,7 +1319,7 @@
         "claude",
         "cline"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1305,40 +1333,12 @@
       "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
     },
     {
-      "name": "google/elephant-goldfish-model",
-      "description": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 1754,
-      "language": "Python",
-      "tags": [
-        "Python",
-        "agent-skills",
-        "ai-agents",
-        "antigravity",
-        "claude-code"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "skills",
-      "categoryLabel": "🧠 Skills/技能包",
-      "categoryDesc": "Agent 技能包与最佳实践集合",
-      "summary": "An open-source method and skill set created at Google for spec-driven development with LLMs",
-      "titleZh": "LLM elephant-goldfish-model",
-      "summaryZh": "Google 创建的开源方法和技能集，用于法学硕士的规范驱动开发",
-      "beginnerScore": 80,
-      "beginnerLevel": "强烈推荐",
-      "beginnerEmoji": "⭐⭐⭐",
-      "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
-    },
-    {
       "name": "codeaholicguy/ai-devkit",
       "description": "The control plane for AI coding agents.",
       "url": "https://github.com/codeaholicguy/ai-devkit",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1653,
+      "stars": 1654,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1347,7 +1347,7 @@
         "ai",
         "ai-agents"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "skills",
       "categoryLabel": "🧠 Skills/技能包",
@@ -1366,7 +1366,7 @@
       "url": "https://github.com/awslabs/cli-agent-orchestrator",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1474,
+      "stars": 1480,
       "language": "Python",
       "tags": [
         "Python",
@@ -1375,7 +1375,7 @@
         "ai-coding-assistant",
         "antigravity"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1389,45 +1389,17 @@
       "beginnerReason": "工具可提升开发体验，社区认可度高"
     },
     {
-      "name": "amplifthq/openmeld",
-      "description": "The open-source collaboration system for people and AI agents. Share context, coordinate tasks, and work in parallel with your team, cloud agents, Codex, Claude Code, Grok, Grok Bot, OpenCode, Antigravity, and Cursor.",
-      "url": "https://github.com/amplifthq/openmeld",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 1397,
-      "language": "TypeScript",
-      "tags": [
-        "TypeScript",
-        "agent-client-protocol",
-        "agent-orchestration",
-        "agent-skills",
-        "ai-agents"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "skills",
-      "categoryLabel": "🧠 Skills/技能包",
-      "categoryDesc": "Agent 技能包与最佳实践集合",
-      "summary": "The open-source collaboration system for people and AI agents.",
-      "titleZh": "Claude/AI openmeld",
-      "summaryZh": "面向人员和人工智能代理的开源协作系统。",
-      "beginnerScore": 80,
-      "beginnerLevel": "强烈推荐",
-      "beginnerEmoji": "⭐⭐⭐",
-      "beginnerReason": "技能包可直接提升使用效率，社区认可度高"
-    },
-    {
       "name": "FutureisinPast/antigravity-conversation-fix",
       "description": "Fixes missing and unordered conversation history in Google Antigravity ",
       "url": "https://github.com/FutureisinPast/antigravity-conversation-fix",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1132,
+      "stars": 1137,
       "language": "Python",
       "tags": [
         "Python"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1468,7 +1440,7 @@
       "url": "https://github.com/slkiser/opencode-quota",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1063,
+      "stars": 1067,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1477,7 +1449,7 @@
         "opencode-plugins",
         "quota"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1496,12 +1468,12 @@
       "url": "https://github.com/confeden/Antigravity",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 1039,
+      "stars": 1057,
       "language": "Rust",
       "tags": [
         "Rust"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1520,7 +1492,7 @@
       "url": "https://github.com/keli-wen/agy-staff",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 791,
+      "stars": 793,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -1529,7 +1501,7 @@
         "ai-agents",
         "antigravity"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -1592,7 +1564,7 @@
       "url": "https://github.com/n2ns/antigravity-panel",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 735,
+      "stars": 736,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1601,7 +1573,7 @@
         "antigravity-ide",
         "antigravity-quota"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -1648,7 +1620,7 @@
       "url": "https://github.com/loysger/Antigravity",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 645,
+      "stars": 646,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1657,7 +1629,7 @@
         "antigravity-russia",
         "claude-sonnet"
       ],
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1700,7 +1672,7 @@
       "url": "https://github.com/ishandutta2007/Velocity",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 568,
+      "stars": 567,
       "language": "TypeScript",
       "tags": [
         "TypeScript",
@@ -1709,7 +1681,7 @@
         "anti-gravity",
         "antigravity"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -1793,6 +1765,34 @@
       "beginnerReason": "可作为项目参考"
     },
     {
+      "name": "yuting0624/antigravity-for-claude-code",
+      "description": "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC. Community project; not affiliated with Google/Anthropic.",
+      "url": "https://github.com/yuting0624/antigravity-for-claude-code",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 438,
+      "language": "Shell",
+      "tags": [
+        "Shell",
+        "agy-cli",
+        "antigravity-cli",
+        "claude-code",
+        "claude-code-plugin"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "devtool",
+      "categoryLabel": "🛠️ 开发工具",
+      "categoryDesc": "辅助开发的工具与插件",
+      "summary": "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC.",
+      "titleZh": "Claude/CLI 代码开发工具",
+      "summaryZh": "Claude Code 插件：将 Antigravity CLI (Gemini) 作为协作子代理运行，并在 SDLC 上进行智能模型路由。",
+      "beginnerScore": 65,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "工具可提升开发体验"
+    },
+    {
       "name": "lbjlaq/Antigravity-Tools-LS",
       "description": "Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE.",
       "url": "https://github.com/lbjlaq/Antigravity-Tools-LS",
@@ -1818,34 +1818,6 @@
       "beginnerLevel": "可以了解",
       "beginnerEmoji": "⭐",
       "beginnerReason": "API 代理偏高级用法"
-    },
-    {
-      "name": "yuting0624/antigravity-for-claude-code",
-      "description": "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC. Community project; not affiliated with Google/Anthropic.",
-      "url": "https://github.com/yuting0624/antigravity-for-claude-code",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 433,
-      "language": "Shell",
-      "tags": [
-        "Shell",
-        "agy-cli",
-        "antigravity-cli",
-        "claude-code",
-        "claude-code-plugin"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "devtool",
-      "categoryLabel": "🛠️ 开发工具",
-      "categoryDesc": "辅助开发的工具与插件",
-      "summary": "Claude Code plugin: run the Antigravity CLI (Gemini) as a collaborating sub-agent with intelligent model routing across the SDLC.",
-      "titleZh": "Claude/CLI 代码开发工具",
-      "summaryZh": "Claude Code 插件：将 Antigravity CLI (Gemini) 作为协作子代理运行，并在 SDLC 上进行智能模型路由。",
-      "beginnerScore": 65,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "工具可提升开发体验"
     },
     {
       "name": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
@@ -1912,8 +1884,8 @@
       "categoryLabel": "👤 账号/配额管理",
       "categoryDesc": "多账号管理与配额监控工具",
       "summary": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "titleZh": "Google Antigravity TOS：第三方使用可能导致 Google 帐户被暂停",
-      "summaryZh": "Google Antigravity TOS：第三方使用可能导致 Google 帐户被暂停",
+      "titleZh": "Google Antigravity TOS：第三方使用可能会导致 Google 帐户被暂停",
+      "summaryZh": "Google Antigravity TOS：第三方使用可能会导致 Google 帐户被暂停",
       "beginnerScore": 50,
       "beginnerLevel": "可以了解",
       "beginnerEmoji": "⭐",
@@ -1953,7 +1925,7 @@
       "url": "https://github.com/MIMICTE/Antigravity-zh-CN",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 285,
+      "stars": 290,
       "language": "Python",
       "tags": [
         "Python",
@@ -1962,7 +1934,7 @@
         "chinese",
         "desktop-application"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -2009,7 +1981,7 @@
       "url": "https://github.com/mmnaderi/antigravity-rtl",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 265,
+      "stars": 267,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -2018,7 +1990,7 @@
         "arabic",
         "electron"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -2105,6 +2077,33 @@
       "beginnerReason": "社区讨论可了解趋势"
     },
     {
+      "name": "yuexps/Antigravity-Hans",
+      "description": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提供的中文汉化工具。",
+      "url": "https://github.com/yuexps/Antigravity-Hans",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 240,
+      "language": "JavaScript",
+      "tags": [
+        "JavaScript",
+        "antigravity",
+        "antigravity-ide",
+        "antigravity-tools"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "devtool",
+      "categoryLabel": "🛠️ 开发工具",
+      "categoryDesc": "辅助开发的工具与插件",
+      "summary": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提供的中文汉化工具。",
+      "titleZh": "Antigravity-Hans",
+      "summaryZh": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提供的中文汉化工具。",
+      "beginnerScore": 65,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "工具可提升开发体验"
+    },
+    {
       "name": "edison-land/paragravity",
       "description": "Native, non-invasive parallel multi-account & sandbox manager for Google Antigravity",
       "url": "https://github.com/edison-land/paragravity",
@@ -2133,31 +2132,32 @@
       "beginnerReason": "账号管理是进阶需求"
     },
     {
-      "name": "yuexps/Antigravity-Hans",
-      "description": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提���的中文汉化工具。",
-      "url": "https://github.com/yuexps/Antigravity-Hans",
+      "name": "tawroot/antigravity-cleaner",
+      "description": "⚡ Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.",
+      "url": "https://github.com/tawroot/antigravity-cleaner",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 234,
-      "language": "JavaScript",
+      "stars": 227,
+      "language": "HTML",
       "tags": [
-        "JavaScript",
-        "antigravity",
+        "HTML",
+        "403-forbidden",
+        "anti-censorship",
         "antigravity-ide",
-        "antigravity-tools"
+        "china"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
-      "categoryId": "devtool",
-      "categoryLabel": "🛠️ 开发工具",
-      "categoryDesc": "辅助开发的工具与插件",
-      "summary": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提���的中文汉化工具。",
-      "titleZh": "Antigravity-Hans",
-      "summaryZh": "反重力/Antigravity汉化，为 Google Antigravity 及 Antigravity IDE 提���的中文汉化工具。",
-      "beginnerScore": 65,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "工具可提升开发体验"
+      "categoryId": "account-manager",
+      "categoryLabel": "👤 账号/配额管理",
+      "categoryDesc": "多账号管理与配额监控工具",
+      "summary": "Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.",
+      "titleZh": "antigravity-cleaner",
+      "summaryZh": "绕过 Google 制裁、区域锁定和 Antigravity IDE 和 2.x 中的 403/429 错误。 Zero-TUN SOCKS5 智能注射器、医生和手术配额重置。",
+      "beginnerScore": 50,
+      "beginnerLevel": "可以了解",
+      "beginnerEmoji": "⭐",
+      "beginnerReason": "账号管理是进阶需求"
     },
     {
       "name": "YashjitPal/BetterGravity",
@@ -2165,7 +2165,7 @@
       "url": "https://github.com/YashjitPal/BetterGravity",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 222,
+      "stars": 223,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -2174,7 +2174,7 @@
         "antigravity",
         "byok"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -2186,6 +2186,34 @@
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
       "beginnerReason": "可作为项目参考"
+    },
+    {
+      "name": "cafeTechne/antigravity-link-extension",
+      "description": "Mobile companion for Google's Antigravity IDE. Mirror AI sessions on your phone, send messages, stop generation, automate via 9 MCP tools or OpenAPI.",
+      "url": "https://github.com/cafeTechne/antigravity-link-extension",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 220,
+      "language": "HTML",
+      "tags": [
+        "HTML",
+        "ai-tools",
+        "antigravity",
+        "chrome-devtools-protocol",
+        "claude"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "devtool",
+      "categoryLabel": "🛠️ 开发工具",
+      "categoryDesc": "辅助开发的工具与插件",
+      "summary": "Mobile companion for Google's Antigravity IDE. Mirror AI sessions on your phone, send messages, stop generation, automate via 9 MCP tools or OpenAPI.",
+      "titleZh": "AI/MCP antigravity-link-exte…",
+      "summaryZh": "Google Antigravity IDE 的移动伴侣。在手机上镜像 AI 会话、发送消息、停止生成、通过 9 MCP 工具或 OpenAPI 实现自动化。",
+      "beginnerScore": 65,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "工具可提升开发体验"
     },
     {
       "name": "sujitagarwal/multigravity-cli",
@@ -2212,60 +2240,32 @@
       "beginnerReason": "工具可提升开发体验"
     },
     {
-      "name": "cafeTechne/antigravity-link-extension",
-      "description": "Mobile companion for Google's Antigravity IDE. Mirror AI sessions on your phone, send messages, stop generation, automate via 9 MCP tools or OpenAPI.",
-      "url": "https://github.com/cafeTechne/antigravity-link-extension",
+      "name": "L1M80/porta",
+      "description": "A lightweight remote web interface for Google Antigravity, with mobile PWA support.",
+      "url": "https://github.com/L1M80/porta",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 219,
-      "language": "HTML",
+      "stars": 211,
+      "language": "TypeScript",
       "tags": [
-        "HTML",
-        "ai-tools",
+        "TypeScript",
         "antigravity",
-        "chrome-devtools-protocol",
-        "claude"
+        "lsp",
+        "mobile",
+        "pwa"
       ],
-      "date": "2026-10-16",
+      "date": "2026-10-21",
       "hot": true,
-      "categoryId": "devtool",
-      "categoryLabel": "🛠️ 开发工具",
-      "categoryDesc": "辅助开发的工具与插件",
-      "summary": "Mobile companion for Google's Antigravity IDE. Mirror AI sessions on your phone, send messages, stop generation, automate via 9 MCP tools or OpenAPI.",
-      "titleZh": "AI/MCP antigravity-link-exte…",
-      "summaryZh": "Google Antigravity IDE 的移动伴侣。在手机上镜像 AI 会话、发送消息、停止生成、通过 9 MCP 工具或 OpenAPI 实现自动化。",
-      "beginnerScore": 65,
+      "categoryId": "app",
+      "categoryLabel": "📱 应用项目",
+      "categoryDesc": "使用 Antigravity 构建的实际应用",
+      "summary": "A lightweight remote web interface for Google Antigravity, with mobile PWA support.",
+      "titleZh": "porta",
+      "summaryZh": "适用于 Google Antigravity 的轻量级远程 Web 界面，具有移动 PWA 支持。",
+      "beginnerScore": 60,
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "工具可提升开发体验"
-    },
-    {
-      "name": "tawroot/antigravity-cleaner",
-      "description": "⚡ Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.",
-      "url": "https://github.com/tawroot/antigravity-cleaner",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 217,
-      "language": "HTML",
-      "tags": [
-        "HTML",
-        "403-forbidden",
-        "anti-censorship",
-        "antigravity-ide",
-        "china"
-      ],
-      "date": "2026-10-26",
-      "hot": true,
-      "categoryId": "account-manager",
-      "categoryLabel": "👤 账号/配额管理",
-      "categoryDesc": "多账号管理与配额监控工具",
-      "summary": "Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.",
-      "titleZh": "antigravity-cleaner",
-      "summaryZh": "绕过 Google 制裁、区域锁定和 Antigravity IDE 和 2.x 中的 403/429 错误。 Zero-TUN SOCKS5 智能注射器、医生和手术配额重置。",
-      "beginnerScore": 50,
-      "beginnerLevel": "可以了解",
-      "beginnerEmoji": "⭐",
-      "beginnerReason": "账号管理是进阶需求"
+      "beginnerReason": "可作为项目参考"
     },
     {
       "name": "QNIX-Dev/eligibility-antigravity-patcher",
@@ -2273,7 +2273,7 @@
       "url": "https://github.com/QNIX-Dev/eligibility-antigravity-patcher",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 193,
+      "stars": 194,
       "language": "Python",
       "tags": [
         "Python",
@@ -2282,7 +2282,7 @@
         "antigravity",
         "cli"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -2362,7 +2362,7 @@
         "ai-ide",
         "ai-tools"
       ],
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "account-manager",
       "categoryLabel": "👤 账号/配额管理",
@@ -2432,6 +2432,30 @@
       "beginnerReason": "技能包可直接提升使用效率，内容适合初学者"
     },
     {
+      "name": "kdczyz/antigravity-chinese",
+      "description": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
+      "url": "https://github.com/kdczyz/antigravity-chinese",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 129,
+      "language": "JavaScript",
+      "tags": [
+        "JavaScript"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "app",
+      "categoryLabel": "📱 应用项目",
+      "categoryDesc": "使用 Antigravity 构建的实际应用",
+      "summary": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
+      "titleZh": "antigravity-chinese",
+      "summaryZh": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
+      "beginnerScore": 60,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "可作为项目参考"
+    },
+    {
       "name": "EstarinAzx/VS-Claude",
       "description": "A warm, Claude.ai-inspired dark theme for VSCode and Antigravity IDE.",
       "url": "https://github.com/EstarinAzx/VS-Claude",
@@ -2448,30 +2472,6 @@
       "summary": "A warm, Claude.ai-inspired dark theme for VSCode and Antigravity IDE.",
       "titleZh": "Claude/AI VS-Claude",
       "summaryZh": "适用于 VSCode 和 Antigravity IDE 的受 Claude.ai 启发的温暖深色主题。",
-      "beginnerScore": 60,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "可作为项目参考"
-    },
-    {
-      "name": "kdczyz/antigravity-chinese",
-      "description": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
-      "url": "https://github.com/kdczyz/antigravity-chinese",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 128,
-      "language": "JavaScript",
-      "tags": [
-        "JavaScript"
-      ],
-      "date": "2026-10-25",
-      "hot": true,
-      "categoryId": "app",
-      "categoryLabel": "📱 应用项目",
-      "categoryDesc": "使用 Antigravity 构建的实际应用",
-      "summary": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
-      "titleZh": "antigravity-chinese",
-      "summaryZh": "Antigravity IDE 最新版中文汉化可复制指令直接喂给antigravity使用（Antigravity Chinese Patch）",
       "beginnerScore": 60,
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
@@ -2510,7 +2510,7 @@
       "url": "https://github.com/yiheng8023/antigravity-chinese",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 116,
+      "stars": 117,
       "language": "JavaScript",
       "tags": [
         "JavaScript",
@@ -2519,7 +2519,7 @@
         "antigravity-ide",
         "chinese"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -2555,17 +2555,45 @@
       "beginnerReason": "社区讨论可了解趋势"
     },
     {
+      "name": "y5ez3g/facadecode",
+      "description": "One IDE for you and your AI team. A VS Code fork where Claude Code, Codex, Antigravity, and Muse Code work in parallel across multiple projects and features.",
+      "url": "https://github.com/y5ez3g/facadecode",
+      "source": "GitHub",
+      "sourceIcon": "📦",
+      "stars": 115,
+      "language": "TypeScript",
+      "tags": [
+        "TypeScript",
+        "agent-framework",
+        "agent-orchestration",
+        "agentic-coding",
+        "agentic-workflow"
+      ],
+      "date": "2026-10-27",
+      "hot": true,
+      "categoryId": "framework",
+      "categoryLabel": "🏗️ 框架/模板",
+      "categoryDesc": "开发框架与项目模板",
+      "summary": "One IDE for you and your AI team.",
+      "titleZh": "Claude/AI facadecode",
+      "summaryZh": "一款适合您和您的 AI 团队的 IDE。",
+      "beginnerScore": 70,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "模板可快速上手"
+    },
+    {
       "name": "daoif/anti-power",
       "description": "Antigravity AI IDE 增强补丁 - 一键复制 + 数学公式渲染 + Mermaid 图表渲染 + 表格颜色修复",
       "url": "https://github.com/daoif/anti-power",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 113,
+      "stars": 114,
       "language": "JavaScript",
       "tags": [
         "JavaScript"
       ],
-      "date": "2026-10-21",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "app",
       "categoryLabel": "📱 应用项目",
@@ -2583,7 +2611,7 @@
       "url": "https://github.com/subgentic/coral",
       "source": "GitHub",
       "sourceIcon": "📦",
-      "stars": 111,
+      "stars": 112,
       "language": "Go",
       "tags": [
         "Go",
@@ -2592,7 +2620,7 @@
         "codex",
         "coding-agents"
       ],
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "hot": true,
       "categoryId": "devtool",
       "categoryLabel": "🛠️ 开发工具",
@@ -2604,34 +2632,6 @@
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
       "beginnerReason": "工具可提升开发体验"
-    },
-    {
-      "name": "OpsinTech/AntigravityProxyLauncher",
-      "description": "为 Antigravity / IDE / Gemini 提供透明的 SOCKS5 代理注入方案：基于 DYLD 注入拦截 getaddrinfo / connect，FakeIP 多进程同步域名映射，稳定支持 Electron / Go 子进程。附带 MITM 代理实现 AI 模型请求跨厂商转译，原生 GUI 一键修复/启动。",
-      "url": "https://github.com/OpsinTech/AntigravityProxyLauncher",
-      "source": "GitHub",
-      "sourceIcon": "📦",
-      "stars": 109,
-      "language": "C++",
-      "tags": [
-        "C++",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini"
-      ],
-      "date": "2026-10-20",
-      "hot": true,
-      "categoryId": "discussion",
-      "categoryLabel": "💡 讨论/新闻",
-      "categoryDesc": "社区讨论与新闻资讯",
-      "summary": "为 Antigravity / IDE / Gemini 提供透明的 SOCKS5 代理注入方案：基于 DYLD 注入拦截 getaddrinfo / connect，FakeIP 多进程同步域名映射，稳定支持 Electron / Go 子进程。",
-      "titleZh": "OpsinTech/AntigravityProxyLauncher",
-      "summaryZh": "为 Antigravity / IDE / Gemini 提供透明的 SOCKS5 代理注入方案：基于 DYLD 注入拦截 getaddrinfo / connect，FakeIP 多进程同步域名映射，稳定支持 Electron / Go 子进程。",
-      "beginnerScore": 55,
-      "beginnerLevel": "可以了解",
-      "beginnerEmoji": "⭐",
-      "beginnerReason": "社区讨论可了解趋势"
     },
     {
       "name": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
@@ -3225,7 +3225,7 @@
       "categoryDesc": "教程、指南与技术文章",
       "summary": "I spent Friday night staring at a mock municipal utility shutoff notice. The text was dense. The...",
       "titleZh": "Charitas Clew：官僚主义很严重。让我们建造配重。",
-      "summaryZh": "周五晚上，我盯着一张模拟市政公用事业关闭通知。文字很浓密。这...",
+      "summaryZh": "周五晚上，我一直盯着模拟的市政公用事业关闭通知。文字很浓密。这...",
       "beginnerScore": 75,
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
@@ -3666,33 +3666,6 @@
       "beginnerReason": "社区讨论可了解趋势"
     },
     {
-      "name": "Antigravity Operator: Helping AI Coding Agents Stay on Track",
-      "description": "Antigravity Operator (agyo) is my first open-source project: a way to carry goals, decisions and unfinished work from one AI coding agent session to the next.",
-      "url": "https://dev.to/tiagovilasboas/antigravity-operator-helping-ai-coding-agents-stay-on-track-216n",
-      "source": "Dev.to",
-      "sourceIcon": "📝",
-      "stars": 7,
-      "tags": [
-        "ai",
-        "go",
-        "antigravity",
-        "braziliandevs"
-      ],
-      "date": "2026-09-29",
-      "hot": false,
-      "author": "Tiago Vilas Boas (Montanha)",
-      "categoryId": "tutorial",
-      "categoryLabel": "📖 教程/文章",
-      "categoryDesc": "教程、指南与技术文章",
-      "summary": "Antigravity Operator (agyo) is my first open-source project: a way to carry goals, decisions and unfinished work from one AI coding agent session to t…",
-      "titleZh": "Antigravity 运营商：帮助人工智能编码代理保持正轨",
-      "summaryZh": "Antigravity Operator (agyo) 是我的第一个开源项目：一种将目标、决策和未完成的工作从一个 AI 编码代理会话转移到...的方法",
-      "beginnerScore": 75,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "教程对入门帮助最大"
-    },
-    {
       "name": "Building Enterprise Storage, Backups & Cosign Image Security in Go & Flutter with Google Antigravity",
       "description": "Building Enterprise Storage, Point-in-Time Backups &amp; Cosign Image Security in Go &amp;...",
       "url": "https://dev.to/gde/building-enterprise-storage-backups-cosign-image-security-in-go-flutter-with-google-antigravity-3ao3",
@@ -3856,7 +3829,7 @@
       "categoryDesc": "教程、指南与技术文章",
       "summary": "Motivation   To be quite honest, \"Hooks\"—the shell commands we trigger at specific points...",
       "titleZh": "Antigravity CLI 中的代理挂钩开发人员指南",
-      "summaryZh": "动机 老实说，“Hooks”——我们在特定点触发的 shell 命令……",
+      "summaryZh": "动机 老实说，“Hooks”——我们在特定点触发的 shell 命令......",
       "beginnerScore": 83,
       "beginnerLevel": "强烈推荐",
       "beginnerEmoji": "⭐⭐⭐",
@@ -4161,7 +4134,7 @@
       "tags": [],
       "date": "2026-10-26",
       "hot": false,
-      "comments": 3,
+      "comments": 4,
       "categoryId": "discussion",
       "categoryLabel": "💡 讨论/新闻",
       "categoryDesc": "社区讨论与新闻资讯",
@@ -4583,28 +4556,6 @@
       "beginnerReason": "社区讨论可了解趋势"
     },
     {
-      "name": "Show HN: Nightshift – Rust CLI to Orchestrate GitHub Issue Resolution with Dags",
-      "description": "Show HN: Nightshift – Rust CLI to Orchestrate GitHub Issue Resolution with Dags",
-      "url": "https://github.com/Shaurya-Sethi/nightshift",
-      "source": "Hacker News",
-      "sourceIcon": "🔶",
-      "stars": 2,
-      "tags": [],
-      "date": "2026-09-10",
-      "hot": false,
-      "comments": 3,
-      "categoryId": "devtool",
-      "categoryLabel": "🛠️ 开发工具",
-      "categoryDesc": "辅助开发的工具与插件",
-      "summary": "Show HN: Nightshift – Rust CLI to Orchestrate GitHub Issue Resolution with Dags",
-      "titleZh": "Show HN：Nightshift – Rust CLI 使用 Dags 协调 GitHub 问题解决",
-      "summaryZh": "Show HN：Nightshift – Rust CLI 使用 Dags 协调 GitHub 问题解决",
-      "beginnerScore": 60,
-      "beginnerLevel": "值得一看",
-      "beginnerEmoji": "⭐⭐",
-      "beginnerReason": "工具可提升开发体验"
-    },
-    {
       "name": "Antigravity IDE",
       "description": "Antigravity IDE",
       "url": "https://antigravity.google/product/antigravity-ide",
@@ -4691,6 +4642,33 @@
       "beginnerLevel": "值得一看",
       "beginnerEmoji": "⭐⭐",
       "beginnerReason": "工具可提升开发体验"
+    },
+    {
+      "name": "Build a smart search bot for your phone",
+      "description": "I was on my phone the other day and wanted to find everything and everything related to a hamster I...",
+      "url": "https://dev.to/antfitch/build-a-smart-search-bot-for-your-phone-27n2",
+      "source": "Dev.to",
+      "sourceIcon": "📝",
+      "stars": 1,
+      "tags": [
+        "gemma",
+        "ai",
+        "flutter",
+        "antigravity"
+      ],
+      "date": "2026-10-27",
+      "hot": false,
+      "author": "Amanda Fitch",
+      "categoryId": "tutorial",
+      "categoryLabel": "📖 教程/文章",
+      "categoryDesc": "教程、指南与技术文章",
+      "summary": "I was on my phone the other day and wanted to find everything and everything related to a hamster I...",
+      "titleZh": "为您的手机构建智能搜索机器人",
+      "summaryZh": "前几天我在打电话，想找到与我的仓鼠有关的一切。",
+      "beginnerScore": 75,
+      "beginnerLevel": "值得一看",
+      "beginnerEmoji": "⭐⭐",
+      "beginnerReason": "教程对入门帮助最大"
     },
     {
       "name": "Use Claude right inside your Chrome and let it play with WebMCP tools",
@@ -4934,6 +4912,28 @@
       "beginnerLevel": "可以了解",
       "beginnerEmoji": "⭐",
       "beginnerReason": "可作为项目参考"
+    },
+    {
+      "name": "Frontier CS added benchmark for Gemini 4 Argon on Antigravity",
+      "description": "Frontier CS added benchmark for Gemini 4 Argon on Antigravity",
+      "url": "https://twitter.com/wenhaocha1/status/2114559544156205413",
+      "source": "Hacker News",
+      "sourceIcon": "🔶",
+      "stars": 1,
+      "tags": [],
+      "date": "2026-10-27",
+      "hot": false,
+      "comments": 0,
+      "categoryId": "discussion",
+      "categoryLabel": "💡 讨论/新闻",
+      "categoryDesc": "社区讨论与新闻资讯",
+      "summary": "Frontier CS added benchmark for Gemini 4 Argon on Antigravity",
+      "titleZh": "Frontier CS 在 Antigravity 上添加了 Gemini 4 氩气基准",
+      "summaryZh": "Frontier CS 在 Antigravity 上添加了 Gemini 4 氩气基准",
+      "beginnerScore": 42,
+      "beginnerLevel": "可以了解",
+      "beginnerEmoji": "⭐",
+      "beginnerReason": "社区讨论可了解趋势，内容偏进阶"
     },
     {
       "name": "Antigravity-IDE-WindowSize – Persist Google Antigravity Window Size",
